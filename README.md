@@ -11,10 +11,10 @@ This project focuses on analyzing complex datasets to derive meaningful insights
 
 ## Project Structure
 ```
-Data Analyst Challenge
+Data Analyst Challenge:
 ├── data/                # Raw and processed data files
-├── notebooks/           # Jupyter Notebooks for analysis
-├── src/                 # Source code for data processing and visualization
+├── Data Analyst - Challenge_Code           # Jupyter Notebook for analysis
+├── Cointab Data Analyst - Challenge                 # Challenge PDF which need to solved.
 ├── requirements.txt     # Required Python packages
 └── README.md            # Project documentation
 ```
@@ -50,7 +50,8 @@ Data Analyst Challenge
 
 ## Analysis Summary
 The project analyzes the given dataset to:
-- Understand the distribution of key variables.
+- Understand challenge and dataset provided, Find out the relation between data .
+- understand the distribution of key variables.
 - Identify trends and outliers.
 - Evaluate correlations between variables.
 - Provide actionable insights supported by visualizations.
@@ -62,8 +63,8 @@ The project analyzes the given dataset to:
 
 ## How to Use
 1. Upload your data to the `data/` directory.
-2. Open and run the notebook in `notebooks/`.
-3. Modify functions in `src/` for custom analysis.
+2. Open and run the notebook in `Data Analyst - Challenge_Code`.
+3. Modify code from jupyter python file for custom analysis.
 
 ## Contributions
 Feel free to contribute by opening pull requests or suggesting enhancements.
